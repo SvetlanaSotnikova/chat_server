@@ -4,7 +4,7 @@
     <module name="chat-server" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="org.chat.server.*" />
+        <option name="PATTERN" value="org.chat.client.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
